@@ -1,5 +1,5 @@
-import 'core-js/fn/array/is-array';
-import 'core-js/fn/object/entries';
+import 'core-js/features/array/is-array';
+import 'core-js/features/object/entries';
 
 import _ from 'lodash/fp';
 import Sert from 'sert-schema';
